@@ -12,15 +12,16 @@ If I had a dollar everytime this has been mentioned as the goto/industry standar
 
 Already using typescript, Zod is a great validation library to compliment type saftey with schema validation, so we can confidently use data properties. 
 
-## Immer and use-immer: [check it out](https://immerjs.github.io/immer/example-setstate)
-
-Used for making our state immutable. I used to use Immutable JS, this works better with react state and hooks in my opinion. 
-
 ## Tailwind [check it out](https://tailwindcss.com/): 
 
 The css library i've been using lately. 
 
 
+For larger apps: recommend the following as well: 
+
+## Immer and use-immer: [check it out](https://immerjs.github.io/immer/example-setstate)
+
+Used for making our state immutable. I used to use Immutable JS, this works better with react state and hooks in my opinion. This is especially usefull for deeply nested state.
 
 
 # -----------------------------------
